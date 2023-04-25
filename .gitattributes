@@ -3,3 +3,4 @@ reviews_spoiler_reduced.csv filter=lfs diff=lfs merge=lfs -text
 reviews_spoiler_reduced_n_grams-*.csv filter=lfs diff=lfs merge=lfs -text
 wordvectors/model_w2v_skip.wordvectors filter=lfs diff=lfs merge=lfs -text
 wordvectors/wv_w2v_skip.wordvectors filter=lfs diff=lfs merge=lfs -text
+data/reviews_spoiler_reduced_tokenized.parquet/ filter=lfs diff=lfs merge=lfs -text
